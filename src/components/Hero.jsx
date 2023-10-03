@@ -41,9 +41,9 @@ Prenez immédiatement rendez-vous dans le centre Skin Academy le plus proche, re
         {/* gradient end */}
       </div>
 
-      <div className={`ss:hidden ${styles.flexCenter}`}>
-        <GetStarted />
-      </div>
+      {/*<div className={`ss:hidden ${styles.flexCenter}`}>*/}
+        {/*<GetStarted />*/}
+      {/*</div>*/}
     </section>
   );
 };
